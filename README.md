@@ -1,2 +1,1 @@
-# 1000-7-amino
-Ghoul's code
+For starting download pydroid3 and repository plugin from playmarket
